@@ -14,7 +14,7 @@
 		VERSION currently only supports 'latest'.
 		Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.MicrosoftWord</string>
+	<string>com.tpg33k.MicrosoftWord</string>
 	<key>MinimumVersion</key>
 	<string>0.4.2</string>
 	<key>ParentRecipe</key>
