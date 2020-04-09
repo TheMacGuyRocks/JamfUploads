@@ -15,6 +15,13 @@
 		Then, uploads to the JSS.</string>
 	<key>Identifier</key>
 	<string>com.tpg33k.MicrosoftWord</string>
+	<key>Input</key>
+	<dict>
+		<key>CATEGORY</key>
+        <string>Software - Core Applications</string>
+		<key>NAME</key>
+		<string>Microsoft Word 2016</string>
+	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.2</string>
 	<key>ParentRecipe</key>
