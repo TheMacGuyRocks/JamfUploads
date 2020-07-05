@@ -14,7 +14,7 @@
 		VERSION currently only supports 'latest'.
 		Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.tpg33k.MSExcel2016</string>
+	<string>com.TheMacGuy.rocks.MSExcel2016</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
